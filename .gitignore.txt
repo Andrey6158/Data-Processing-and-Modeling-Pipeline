@@ -1,0 +1,30 @@
+.anaconda/
+.cache/
+.conda/
+.continuum/
+.ipython/
+.jupyter/
+.keras/
+.matplotlib/
+.vscode/
+3D Objects/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+OpenVPN/
+Pictures/
+PycharmProjects/
+Saved Games/
+Searches/
+Videos/
+*.lnk
+*.tmp
+*.log
+*.ini
+*.rdp
